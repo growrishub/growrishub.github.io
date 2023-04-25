@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://growrishub.github.io/sitemap.xml
